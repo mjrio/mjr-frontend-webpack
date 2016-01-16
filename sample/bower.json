@@ -1,0 +1,19 @@
+{
+  "name": "sample_webPack",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Euricom/frontend-bootcamp-2015Q4",
+  "authors": [
+    "Peter Cosemans <peter.cosemans@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
